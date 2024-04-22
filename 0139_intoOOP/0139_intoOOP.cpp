@@ -12,5 +12,9 @@ public:
 		cout << "umur: " << umur << endl;
 		cout << "jurusan: " << jurusan << endl;
 	}
+
 };
 
+class matakuliah {
+
+};
