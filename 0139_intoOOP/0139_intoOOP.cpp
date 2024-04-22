@@ -7,6 +7,8 @@ public:
 	int umur;
 	string jurusan;
 
+	void output() {
 
+	}
 };
 
