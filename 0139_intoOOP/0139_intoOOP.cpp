@@ -38,5 +38,15 @@ public:
 };
 
 int main() {
+	mahasiswa mhs;
+	matakuliah mk;
+
+	mhs.nama = "budi";
+	mhs.umur = 20;
+	mhs.jurusan = "teknik informatika";
+	mhs.output();
+
+	mk.input();
+	mk.output();
 
 }
