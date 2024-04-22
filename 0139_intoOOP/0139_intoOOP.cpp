@@ -8,7 +8,7 @@ public:
 	string jurusan;
 
 	void output() {
-
+		cout << "nama: " << nama << endl;
 	}
 };
 
