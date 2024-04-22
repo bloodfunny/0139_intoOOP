@@ -5,6 +5,8 @@ class mahasiswa {
 public:
 	string nama;
 	int umur;
+	string jurusan;
+
 
 };
 
